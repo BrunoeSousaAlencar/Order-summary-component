@@ -114,8 +114,9 @@ img{
     color: var(--Pale-blue);
     font-weight: 700;
     font-size: 16px;
-    box-shadow: 0px 15px 5px var(--Pale-blue);
+    box-shadow: 0px 15px 10px var(--Pale-blue);
     cursor: pointer;
+    
 }
 
 .botao-principal:hover{
@@ -133,4 +134,3 @@ img{
 .botao-secundario:hover{
     color: var(--Dark-blue);
 }
-
