@@ -55,7 +55,7 @@ h1{
 
 .texto-principal{
     color: var(--Desaturated-blue);
-    font-weight: 700;
+    font-weight: 500;
     width: 300px;
     margin: auto;
     font-size: 15px;
