@@ -1,0 +1,27 @@
+@media (max-width:450px){
+    .caixa{
+        width: 90%;
+    }
+
+    .texto-principal{
+        width: 90%;
+    }
+
+    .plano{
+        width: 80%;
+    }
+
+    .botao-mudar{
+        margin-left: 40px;
+    }
+
+    .botao-principal{
+        width: 90%;
+    }
+}
+
+@media (max-width:375px){
+    .botao-mudar{
+        margin-left: 10px;
+    }
+}
